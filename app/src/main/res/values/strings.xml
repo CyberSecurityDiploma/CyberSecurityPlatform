@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CyberSecPlatform</string>
+    <string name="auth_label_password">Пароль</string>
+    <string name="auth_label_phone_number_email">Номер телефона/e-mail</string>
+    <string name="auth_label_error">Неверный</string>
+    <string name="auth_password_error_length">Пароль должен содержать не менее 8 символов</string>
+    <string name="auth_password_error_no_numbers">Пароль должен содержать хотя бы одну цифру</string>
+    <string name="auth_password_error_no_lowercase_letters">Пароль должен содержать хотя бы одну строчную букву</string>
+    <string name="auth_password_error_no_uppercase_letters">Пароль должен содержать хотя бы одну заглавную букву</string>
+    <string name="auth_password_error_no_symbols">Пароль должен содержать хотя бы один специальный символ (!@#$%^&amp;.*)</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CyberSecPlatform</string>
+    <string name="auth_label_password">Password</string>
+    <string name="auth_label_phone_number_email">Phone number/e-mail</string>
+    <string name="auth_label_error">Wrong</string>
+    <string name="auth_password_error_length">Password must containt at least 8 characters</string>
+    <string name="auth_password_error_no_numbers">Password must containt at least one number</string>
+    <string name="auth_password_error_no_lowercase_letters">Password must contain at least one lowercase letter</string>
+    <string name="auth_password_error_no_uppercase_letters">Password must contain at least one uppercase letter</string>
+    <string name="auth_password_error_no_symbols">Password must contain at least one special symbol (!@#$%^&amp;.*)</string>
+</resources>
